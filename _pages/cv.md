@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Information Technology, PSG College of Technology, India, 2009
+* M.S. in Computer Science, Columbia University, 2012
+* Ph.D in Computer Science, University of Massachusetts, Amherst, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022: Research Intern
+  * Microsoft
+  * Supervisor: Ilya Zharkov, Faezeh Amjadi
+  * Project: Image to 3D face reconstruction
+  
+* Summer 2022: Software Engineer Intern
+  * Google
+  * Supervisor: 
+  * Project: LIDAR building window detection
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Intern
+  * Facebook - Oculus Rift
+  * Project: GAN model for automatic placement of virtual screen in VR
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C++
+* Pytorch
+* Computer vision
+* Computer graphics
 
 Publications
 ======
