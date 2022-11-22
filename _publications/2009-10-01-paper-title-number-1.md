@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Buildingnet: Learning to label 3d buildings"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about large scale 3D building dataset and GNN model for part labelling.'
+venue: 'ECCV-2021'
+projectpage: 'https://buildingnet.org/'
+citation: 'Selvaraju, Pratheba. (2021). &quot;Buildingnet: Learning to label 3d buildings.&quot; <i>ECCV</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We introduce BuildingNet: (a) a large-scale dataset of 3D building models whose exteriors are consistently labeled, and (b) a graph neural network that labels building meshes by analyzing spatial and structural relations of their geometric primitives.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://drive.google.com/file/d/1aD5AIkx58k7EyK8Utg8vKv2Y_UMZ--pv/view)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Your Name, You. (2021). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
