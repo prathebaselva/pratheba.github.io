@@ -1,15 +1,13 @@
 ---
 title: "Neural Implicit reconstruction with developability prior"
-collection: publications
+collection: EuroGraphics-2023
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about developable surface reconstruction from noisy input point cloud.'
 date: 2010-10-01
 venue: 'EG(under review)'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: ''
 citation: 'Pratheba Selvaraju, Evangelos Kalogerakis. (2022). &quot; Nerual Implicit Surface Reconstruction.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](coming soon)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
