@@ -1,7 +1,7 @@
 ---
 title: "Buildingnet: Learning to label 3d buildings"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-03-01-BuildingNet
 excerpt: 'This paper is about large scale 3D building dataset and GNN model for part labelling.'
 venue: 'ECCV-2021'
 projectpage: 'https://buildingnet.org/'
