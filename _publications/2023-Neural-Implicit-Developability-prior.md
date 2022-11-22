@@ -4,7 +4,7 @@ collection: EuroGraphics-2023(under review)
 permalink: /publication/2023-Neural-Implicit-Developability-prior.md
 excerpt: 'This paper is about developable surface reconstruction from noisy input point cloud.'
 date: 2023
-<!-- venue: 'EG(under review)' -->
+venue: 'EG23(under review)'
 paperurl: ''
 citation: 'Pratheba Selvaraju, Evangelos Kalogerakis. (2022). &quot; Neural Implicit Surface Reconstruction with a Developability Prior.&quot; <i>EG-23(under review)</i>. 1(2).'
 ---
