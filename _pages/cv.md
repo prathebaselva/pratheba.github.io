@@ -24,12 +24,19 @@ Work experience
   
 * Summer 2022: Software Engineer Intern
   * Google
-  * Supervisor: 
   * Project: LIDAR building window detection
 
 * Summer 2020: Research Intern
   * Facebook - Oculus Rift
   * Project: GAN model for automatic placement of virtual screen in VR
+
+* Aug 2016 - Dec 2017
+  * MZ and IMO
+  * Position: Software Engineer
+
+* 2013 - Aug 2016
+  * Microsoft
+  * Position: Software Engineer
 
   
 Skills
@@ -46,7 +53,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,8 +63,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
