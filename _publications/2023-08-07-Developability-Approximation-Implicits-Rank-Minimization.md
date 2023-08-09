@@ -10,4 +10,3 @@ citation: 'Pratheba Selvaraju. (2023). &quot; Developability Approximation for N
 ---
 
 [Download paper here](arxiv)
-
