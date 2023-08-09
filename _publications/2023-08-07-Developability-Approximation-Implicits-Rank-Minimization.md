@@ -8,7 +8,4 @@ venue: 'Under submission'
 paperurl: 'https://arxiv.org/abs/2308.03900'
 citation: 'Pratheba Selvaraju. (2023). &quot; Developability Approximation for Neural Implicits through Rank Minimization.&quot; <i>(under review)</i>. 1(2).'
 ---
-
 [Download paper here](arxiv)
-
-
