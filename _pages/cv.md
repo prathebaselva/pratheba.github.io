@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<embed src="../assets/files/PrathebaSelvaraju_Resume_2023.pdf" type="application/pdf">
 Education
 ======
 * B.Tech. in Information Technology, PSG College of Technology, India, 2009
