@@ -8,51 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume]({{ site.baseurl }}{{post.url}}/assets/files/PrathebaSelvaraju_Resume_2023.pdf)
-Education
-======
-* B.Tech. in Information Technology, PSG College of Technology, India, 2009
-* M.S. in Computer Science, Columbia University, 2012
-* Ph.D in Computer Science, University of Massachusetts, Amherst, 2024 (expected)
+[Resume]({{ site.baseurl }}{{post.url}}/files/PrathebaSelvaraju_Resume_2023.pdf)
 
-Work experience
-======
-* Fall 2022: Research Intern
-  * Microsoft
-  * Supervisor: Ilya Zharkov, Faezeh Amjadi
-  * Project: Image to 3D face reconstruction
-  
-* Summer 2022: Software Engineer Intern
-  * Google
-  * Project: LIDAR building window detection
-
-* Summer 2020: Research Intern
-  * Facebook - Oculus Rift
-  * Project: GAN model for automatic placement of virtual screen in VR
-
-* Aug 2016 - Dec 2017
-  * MZ and IMO
-  * Position: Software Engineer
-
-* 2013 - Aug 2016
-  * Microsoft
-  * Position: Software Engineer
-
-  
-Skills
-======
-* Python
-* C++
-* Pytorch
-* Computer vision
-* Computer graphics
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
